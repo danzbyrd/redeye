@@ -1,7 +1,7 @@
 {
-    "db": "mongodb://localhost/mean-dev",
+    "db": "mongodb://localhost/redeye-dev",
     "app": {
-        "name": "MEAN - A Modern Stack - Development"
+        "name": "RedEye - HR for winners - Development"
     },
     "facebook": {
         "clientID": "APP_ID",
